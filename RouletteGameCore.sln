@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteGame.Application", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteGame.Test.Unit", "RouletteGame.Test.Unit\RouletteGame.Test.Unit.csproj", "{05401F2B-8252-4C05-9D41-3C8FAE852D83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteGame.Test.Integration", "RouletteGame.Test.Integration\RouletteGame.Test.Integration.csproj", "{1468D6C4-9FC7-4228-90FE-F9D7BE970D84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{05401F2B-8252-4C05-9D41-3C8FAE852D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05401F2B-8252-4C05-9D41-3C8FAE852D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05401F2B-8252-4C05-9D41-3C8FAE852D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1468D6C4-9FC7-4228-90FE-F9D7BE970D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1468D6C4-9FC7-4228-90FE-F9D7BE970D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1468D6C4-9FC7-4228-90FE-F9D7BE970D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1468D6C4-9FC7-4228-90FE-F9D7BE970D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
